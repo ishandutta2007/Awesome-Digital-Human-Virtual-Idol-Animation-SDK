@@ -32,81 +32,37 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global digital human and interactive avatar market is estimated at approximately **$6.3B to $8.0B in 2025–2026**, with projections surging to **$26B–$46B+ by 2030** (and up to $250B+ when including broad synthetic avatar media and virtual influencer commerce), growing at a compound annual growth rate (CAGR) of ~35%–45%.
+
+The sector is **moderately fragmented**: foundational infrastructure layers (GPUs, LLM backbones, real-time 3D engines) are heavily concentrated among hyperscalers (NVIDIA, Epic Games, Microsoft, Google), while the application layer remains dynamic and competitive with specialized SaaS and API startups carving out distinct strongholds across video generation, conversational WebRTC digital twins, gaming NPCs, and enterprise immersive training.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[HeyGen (Interactive Avatar & Streaming API)](https://heygen.com)**  
-
-  Cloud AI digital human and video generation platform offering real-time WebRTC interactive streaming avatars, voice cloning, multi-language lip-sync, and enterprise SDKs.
-
-
-
-- **[Synthesia](https://synthesia.io)**  
-
-  Enterprise AI video and digital avatar platform featuring expressive studio avatars, custom personal avatars, brand kits, and automated localization across 140+ languages.
-
-
-
-- **[Tavus (Phoenix & CVI — Conversational Video Interface)](https://tavus.io)**  
-
-  Real-time multimodal conversational video API delivering sub-second, emotionally expressive photorealistic digital humans with vision perception and low-latency turn-taking.
-
-
-
-- **[D-ID (Agents & Creative Reality Studio)](https://d-id.com)**  
-
-  Cloud digital people and streaming avatar API animating still portraits and 3D characters with real-time audio-driven facial expressions and conversational LLM hooks.
-
-
-
-- **[Soul Machines](https://soulmachines.com)**  
-
-  Autonomous animation and Experiential AI platform creating emotionally responsive, biologically inspired 3D digital people for interactive brand and customer experiences.
-
-
-
-- **[Inworld AI](https://inworld.ai)**  
-
-  Real-time AI character and NPC behavior engine uniting multimodal voice, emotional state graphs, memory, and Unreal/Unity/Web animation SDKs for games and virtual idols.
-
-
-
-- **[UneeQ](https://digitalhumans.com)**  
-
-  Enterprise digital human platform enabling brands to deploy realistic, conversational 3D virtual ambassadors across web, mobile, and in-store kiosks.
-
-
-
-- **[DeepBrain AI (AI Studios)](https://deepbrain.io)**  
-
-  Cloud conversational avatar and AI human synthesis platform offering 2D/3D custom digital twins, real-time kiosk SDKs, and text-to-video presenters.
-
-
-
-- **[Hour One](https://hourone.ai)**  
-
-  Enterprise virtual presenter and AI video generation platform converting scripts and structured data into photorealistic human-led presentations at scale.
-
-
-
-- **[Colossyan](https://colossyan.com)**  
-
-  Cloud AI video creator specialized in workplace learning and interactive training featuring multi-avatar conversations, branching scenarios, and auto-translation.
-
-
+| Platform | Valuation / Revenue | Starting Price | Free Tier / Trial Limit | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Synthesia](https://synthesia.io)** | Valuation: ~$4.0B (ARR: ~$150M+) | $19/mo (or $14/mo billed annually) for Starter | Free plan: ~10 mins video/dubbing per mo (~500–1,200 credits), 9 stock avatars, watermarked exports | Enterprise AI video & avatar platform with 140+ languages, studio avatars, and brand kits. |
+| **[HeyGen](https://heygen.com)** | Valuation: ~$500M+ (ARR: ~$200M+) | $29/mo (or $24/mo billed annually) for Creator | Free plan: 3 videos per month (max 1 min per video), watermarked, 30+ languages | Cloud AI digital human & streaming avatar API with real-time WebRTC, voice cloning, and interactive SDKs. |
+| **[Inworld AI](https://inworld.ai)** | Valuation: ~$500M (Funding: ~$120M+) | $25/mo for Creator (Pay-as-you-go after allowances) | Free tier: ~70 free TTS mins/mo and ~400 free STT mins/mo for prototyping | Real-time AI character & NPC behavior engine with multimodal voice, state graphs, and Unreal/Unity SDKs. |
+| **[Tavus](https://tavus.io)** | Valuation: ~$250M+ (Funding: ~$66M) | $22/mo for Starter developer plan | Free tier: ~20–25 conversational video mins/mo, 1 active concurrent session | Real-time multimodal conversational video API delivering low-latency photorealistic digital humans with vision. |
+| **[Soul Machines](https://soulmachines.com)** | Valuation: ~$250M–$500M (Acquired by AppDirect; Funding: ~$135M) | $13/mo for Solo Studio plan | Free trial: 14-day free trial on Studio tier with limited conversation minutes pool | Biologically inspired 3D digital people & Experiential AI platform for interactive brand ambassadors. |
+| **[D-ID](https://d-id.com)** | Valuation: ~$100M–$250M (ARR: ~$10M–$34M) | $4.70/mo (billed annually) / $29/mo for Pro | Free trial: 14-day free trial with ~3 minutes of video generation credits, watermarked | Cloud digital people and streaming avatar API animating still photos and 3D portraits with LLM integrations. |
+| **[DeepBrain AI](https://deepbrain.io)** | Valuation: ~$100M+ (Funding: ~$52M Series B) | $29/mo (or $24/mo billed annually) for Personal | Free plan: 3 free videos (up to 3 minutes each) upon signup, watermarked | Cloud conversational avatars and AI Studios generating 2D/3D custom digital twins and kiosk presentations. |
+| **[Hour One](https://hourone.ai)** | Valuation: ~$100M–$250M (ARR: ~$10M–$11.5M) | $30/mo for Lite plan | Free trial: 3 minutes of free video creation with restricted avatar library | Enterprise virtual presenter and AI video platform turning text and scripts into photorealistic human-led video. |
+| **[Colossyan](https://colossyan.com)** | Valuation: ~$80M–$150M (Funding: ~$28M) | $19/mo (billed annually) / $27/mo for Professional | Free plan & 14-day trial: Limited free monthly video minutes with instant avatars, watermarked | Workplace learning and training video creator featuring multi-avatar conversations and interactive branching scenarios. |
+| **[UneeQ](https://digitalhumans.com)** | Valuation: ~$40M–$100M (Funding: ~$10M) | $899/mo for Immersive Training | Free trial: 30-day free trial (no credit card required) for Immersive Training Platform | Enterprise conversational 3D digital humans deploying across web, kiosks, and corporate coaching. |
 
 
 
