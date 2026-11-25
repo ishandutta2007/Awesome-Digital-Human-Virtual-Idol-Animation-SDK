@@ -167,7 +167,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 1. 🍴 **Fork this repository**.
 2. 🌿 Create a new branch: `git checkout -b feature/add-new-sdk`.
 3. 📝 Update `README.md` following the established table / badge format.
-4. 🔍 Include: Name, active URL, GitHub star badge (if open-source), pricing & free tier limits (if SaaS), and a clear factual description.
+4. 🔍 Include: Name, active URL, GitHub Stars_Badge (if open-source), pricing & free tier limits (if SaaS), and a clear factual description.
 5. 🚀 Submit a Pull Request with a brief explanation of the addition.
 
 ---
